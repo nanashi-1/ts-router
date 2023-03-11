@@ -1,0 +1,20 @@
+{
+  "name": "ts-router",
+  "version": "1.0.0",
+  "description": "basic router for static web sites",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanashi-1/ts-router.git"
+  },
+  "author": "nanashi-1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nanashi-1/ts-router/issues"
+  },
+  "homepage": "https://github.com/nanashi-1/ts-router#readme"
+}
